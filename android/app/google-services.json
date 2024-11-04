@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420220607493",
+    "project_id": "fir-flutter-ba165",
+    "storage_bucket": "fir-flutter-ba165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420220607493:android:5e7b6bc02e1ac8beea106c",
+        "android_client_info": {
+          "package_name": "com.ardirannu.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCdDKJCbubS8qDFQ0USniV0uhYu-7Z5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
